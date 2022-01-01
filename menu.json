@@ -1,0 +1,84 @@
+{
+    "menu": [
+      {
+        "jenis": "Foods",
+        "nama": "Chocolate Muffin",
+        "deskripsi": "Decadently rich and moist - the perfect choice for chocolate lovers looking for a sweet snack",
+        "harga": 40000,
+        "estimasi": "20 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/280x280/_files/food-menu-photos/Choc_Muffin.jpg"
+      },
+      {
+        "jenis": "Foods",
+        "nama": "Pain Au Raisin",
+        "deskripsi": "A delicate glazed danish-style pastry studded with juicy raisins",
+        "harga": 38000,
+        "estimasi": "30 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/280x280/_files/Food/painauraisin.png"
+      },
+      {
+        "jenis": "Foods",
+        "nama": "Tomato, Feta & Spinach Croissant",
+        "deskripsi": "Slices of red ripe tomato tossed with spinach leaves and crumbled feta all in a buttery croissant",
+        "harga": 25000,
+        "estimasi": "25 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/280x280/_files/food-menu-photos/onlinemenu-foodtile-64.jpg"
+      },
+      {
+        "jenis": "Cold Beverages",
+        "nama": "Caramel Frappuccino",
+        "deskripsi": "The coffee is bold but easy-drinking. The caramel lends a distinct buttery sweetness. The fluffy swirl of whipped cream adds just the right touch of decadence. That’s tough to beat by any measure.",
+        "harga": 68000,
+        "estimasi": "25 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/620x634/_files/Beverages/sbx20190528-30121-caramelfrapp-ongreen-corelib-srgb.jpg"
+      },
+      {
+        "jenis": "Cold Beverages",
+        "nama": "Matcha Green Tea Frappuccino",
+        "deskripsi": "Matcha tea is best known for its central role in the serene ritual known as the Japanese tea ceremony, tea drinkers all over the world have come to enjoy the gentle, uplifting taste of this finely-powdered green tea in their own way",
+        "harga": 55000,
+        "estimasi": "15 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/620x634/_files/Beverages/sbx20181127-25187-matchagreenteafrapp-ongreen-corelib-srgb.jpg"
+      },
+      {
+        "jenis": "Cold Beverages",
+        "nama": "Iced Shaken Black Tea with Ruby Grapefruit and Honey",
+        "deskripsi": "Traditional English Breakfast tea gets a snappy, citrussy twist with a splash of honey for added sweetness.",
+        "harga": 60000,
+        "estimasi": "10 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/620x634/_files/Beverages/sbux22-ap-delivery-icedshakenblackteagrapefruithoney-greenlogo-rgb.jpg"
+      },
+      {
+        "jenis": "Salads and Snacks",
+        "nama": "Chicken Caesar Salad",
+        "deskripsi": "Crisp cos lettuce with tender RSPCA Approved chicken, diced bacon, parmesan, crunchy croutons and classic Caesar dressing.",
+        "harga": 30000,
+        "estimasi": "15 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/280x280/_files/food-menu-photos/OnlineMenu_FoodTile_53.jpg"
+      },
+      {
+        "jenis": "Salads and Snacks",
+        "nama": "Creamy Oats",
+        "deskripsi": "Wholegrain oats made with freshly steamed milk and a crunchy trail mix garnish consisting of almonds, sultanas, cranberries, pepitas, and sunflower seeds.",
+        "harga": 45000,
+        "estimasi": "20 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/280x280/_files/food-menu-photos/onlinemenu-foodtile-55.jpg"
+      },
+      {
+        "jenis": "Salads and Snacks",
+        "nama": "Vanilla Yoghurt",
+        "deskripsi": "Greek yoghurt sweetened with vanilla bean and topped with a toasted, honey-spiced muesli",
+        "harga": 35000,
+        "estimasi": "10 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/280x280/_files/food-menu-photos/onlinemenu-foodtile-57.jpg"
+      },
+      {
+        "jenis": "Salads and Snacks",
+        "nama": "Raspberry Yoghurt",
+        "deskripsi": "Greek yoghurt sweetened with swirls of bright raspberry and topped with toasted, honey-spiced muesli",
+        "harga": 37000,
+        "estimasi": "12 menit",
+        "gambar": "https://assets.mystarbucks.com.au/imagecache/bestfit/280x280/_files/food-menu-photos/onlinemenu-foodtile-56.jpg"
+      }
+    ]
+  }
